@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8604010-5612-4e93-a6d5-c05fdfff2b73": {
+      "ProjectGuid": "e8604010-5612-4e93-a6d5-c05fdfff2b73",
+      "DisplayName": "astuntaPaskaita",
+      "ColorIndex": 0
+    },
+    "a7e1eb86-6487-4121-9836-fc149e1861d8": {
+      "ProjectGuid": "a7e1eb86-6487-4121-9836-fc149e1861d8",
+      "DisplayName": "astuntaPaskaita_UnitTest",
+      "ColorIndex": 1
+    },
+    "887d73d8-9e0a-48a4-87eb-a73bb6317988": {
+      "ProjectGuid": "887d73d8-9e0a-48a4-87eb-a73bb6317988",
+      "DisplayName": "astuntaPaskaita_UnitTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
