@@ -1,0 +1,12 @@
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\bin\Debug\net5.0\astuntaDevintaPaskaita.Models.deps.json
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\bin\Debug\net5.0\astuntaDevintaPaskaita.Models.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\bin\Debug\net5.0\ref\astuntaDevintaPaskaita.Models.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\bin\Debug\net5.0\astuntaDevintaPaskaita.Models.pdb
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.csproj.AssemblyReference.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.AssemblyInfoInputs.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.AssemblyInfo.cs
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.csproj.CoreCompileInputs.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\ref\astuntaDevintaPaskaita.Models.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita.Models\obj\Debug\net5.0\astuntaDevintaPaskaita.Models.pdb
