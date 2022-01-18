@@ -1671,14 +1671,27 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "astuntaPaskaita/1.0.0": {
+      "astuntaDevintaPaskaita/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "astuntaDevintaPaskaita.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/astuntaDevintaPaskaita.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/astuntaDevintaPaskaita.dll": {}
+        }
+      },
+      "astuntaDevintaPaskaita.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/astuntaPaskaita.dll": {}
+          "bin/placeholder/astuntaDevintaPaskaita.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/astuntaPaskaita.dll": {}
+          "bin/placeholder/astuntaDevintaPaskaita.Models.dll": {}
         }
       }
     }
@@ -5917,39 +5930,44 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "astuntaPaskaita/1.0.0": {
+    "astuntaDevintaPaskaita/1.0.0": {
       "type": "project",
-      "path": "../astuntaPaskaita/astuntaPaskaita.csproj",
-      "msbuildProject": "../astuntaPaskaita/astuntaPaskaita.csproj"
+      "path": "../astuntaPaskaita/astuntaDevintaPaskaita.csproj",
+      "msbuildProject": "../astuntaPaskaita/astuntaDevintaPaskaita.csproj"
+    },
+    "astuntaDevintaPaskaita.Models/1.0.0": {
+      "type": "project",
+      "path": "../astuntaPaskaita.Models/astuntaDevintaPaskaita.Models.csproj",
+      "msbuildProject": "../astuntaPaskaita.Models/astuntaDevintaPaskaita.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "astuntaPaskaita >= 1.0.0",
+      "astuntaDevintaPaskaita >= 1.0.0",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\audri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\net_mok\\lesson8\\astuntaPaskaita\\astuntaPaskaita_UnitTest\\astuntaPaskaita_UnitTest.csproj",
-      "projectName": "astuntaPaskaita_UnitTest",
-      "projectPath": "C:\\Users\\User\\Desktop\\net_mok\\lesson8\\astuntaPaskaita\\astuntaPaskaita_UnitTest\\astuntaPaskaita_UnitTest.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\net_mok\\lesson8\\astuntaPaskaita\\astuntaPaskaita_UnitTest\\obj\\",
+      "projectUniqueName": "C:\\Users\\audri\\Documents\\Code_Academy_mokymai\\lesson8\\astuntaPaskaita\\astuntaPaskaita_UnitTest\\astuntaDevintaPaskaita.UnitTest.csproj",
+      "projectName": "astuntaDevintaPaskaita.UnitTest",
+      "projectPath": "C:\\Users\\audri\\Documents\\Code_Academy_mokymai\\lesson8\\astuntaPaskaita\\astuntaPaskaita_UnitTest\\astuntaDevintaPaskaita.UnitTest.csproj",
+      "packagesPath": "C:\\Users\\audri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\audri\\Documents\\Code_Academy_mokymai\\lesson8\\astuntaPaskaita\\astuntaPaskaita_UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\audri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5964,8 +5982,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\net_mok\\lesson8\\astuntaPaskaita\\astuntaPaskaita\\astuntaPaskaita.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\net_mok\\lesson8\\astuntaPaskaita\\astuntaPaskaita\\astuntaPaskaita.csproj"
+            "C:\\Users\\audri\\Documents\\Code_Academy_mokymai\\lesson8\\astuntaPaskaita\\astuntaPaskaita\\astuntaDevintaPaskaita.csproj": {
+              "projectPath": "C:\\Users\\audri\\Documents\\Code_Academy_mokymai\\lesson8\\astuntaPaskaita\\astuntaPaskaita\\astuntaDevintaPaskaita.csproj"
             }
           }
         }

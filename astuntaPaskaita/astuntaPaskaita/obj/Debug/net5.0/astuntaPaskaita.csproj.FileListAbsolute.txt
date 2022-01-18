@@ -5,7 +5,6 @@ C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPas
 C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\bin\Debug\net5.0\astuntaPaskaita.dll
 C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\bin\Debug\net5.0\ref\astuntaPaskaita.dll
 C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\bin\Debug\net5.0\astuntaPaskaita.pdb
-C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\obj\Debug\net5.0\astuntaPaskaita.csproj.AssemblyReference.cache
 C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\obj\Debug\net5.0\astuntaPaskaita.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\obj\Debug\net5.0\astuntaPaskaita.AssemblyInfoInputs.cache
 C:\Users\audri\Documents\Code_Academy_mokymai\lesson8\astuntaPaskaita\astuntaPaskaita\obj\Debug\net5.0\astuntaPaskaita.AssemblyInfo.cs
